@@ -5,7 +5,7 @@ El sistema permite generar imágenes en el estilo de pintores famosos a partir d
 
 ---
 
-## 🚀 Descripción
+## Descripción
 El objetivo fue investigar hasta qué punto un modelo de IA puede **aprender estilos artísticos** y aplicarlos a nuevas obras visuales.  
 Para ello, diseñé un dataset propio de 5 artistas y entrené una red neuronal simple para clasificarlos, integrando después un pipeline de **Stable Diffusion** para la generación de imágenes.
 
@@ -16,7 +16,7 @@ El usuario puede:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Lenguaje:** Python (Jupyter Notebook)  
 - **Librerías:** TensorFlow / PyTorch, Matplotlib, PIL  
 - **Modelos:** Stable Diffusion  
@@ -24,7 +24,7 @@ El usuario puede:
 
 ---
 
-## 👩‍💻 Mi rol
+## Mi rol
 - Creación manual del **dataset** con diferentes artistas.  
 - Implementación de la **red neuronal** para clasificación inicial.  
 - Integración de **Stable Diffusion** para la generación de imágenes.  
