@@ -35,8 +35,8 @@ El usuario puede:
 ## 🖼️ Ejemplos de resultados
 | Prompt | Artista seleccionado | Imagen generada |
 |--------|----------------------|-----------------|
-| "Woman in field" | Monet | ![](media/example1.png) |
-| "Self portrait monkey"   | Kahlo  | ![](media/example2.png) | 
+| "Woman in field" | Monet | ![](media/woman.png) |
+| "Self portrait monkey"   | Kahlo  | ![](media/portrait.png) | 
 
 ---
 
