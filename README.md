@@ -36,7 +36,7 @@ El usuario puede:
 | Prompt | Artista seleccionado | Imagen generada |
 |--------|----------------------|-----------------|
 | "Woman in field" | Monet | ![](media/example1.png) |
-| "A woman with a red dress"   | Picasso  | ![](media/example2.png) | 
+| "Self portrait monkey"   | Kahlo  | ![](media/example2.png) | 
 
 ---
 
