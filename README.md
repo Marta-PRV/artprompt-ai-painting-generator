@@ -39,5 +39,3 @@ El usuario puede:
 | "Self portrait monkey"   | Kahlo  | ![](media/portrait.png) | 
 
 ---
-
-## 📂 Estructura del proyecto
